@@ -21,6 +21,7 @@ dependencies:
 
   json_annotation:
   google_maps_flutter:
+  riverpod:
 
 dev_dependencies:
   flutter_test:
